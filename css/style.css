@@ -1,0 +1,16 @@
+.red{
+    color: red;
+}
+.checked {
+    color: orange;
+  }
+  .table-header-font{
+    font-weight: normal;
+  }
+  .radio-position
+  {
+    text-align: center;
+  }
+  .align-center{
+    width: 0;
+  }
